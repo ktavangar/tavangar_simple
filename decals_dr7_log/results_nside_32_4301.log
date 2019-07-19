@@ -1,0 +1,30 @@
+Traceback (most recent call last):
+  File "/home/s1/tavangar/tavangar_simple/search_algorithm.py", line 24, in <module>
+    import simple_utils
+  File "/home/s1/tavangar/tavangar_simple/simple_utils.py", line 42, in <module>
+    sim_population = cfg[survey]['sim_population']
+KeyError: 'sim_population'
+
+------------------------------------------------------------
+Job <673021.0> was submitted from <des51.fnal.gov> by user <tavangar>.
+Job was executed on host <des40.fnal.gov> as user <tavangar>.
+</var/lib/condor/execute/dir_762573> was used as the initial working directory.
+Results reported at Tue Jun  4 13:26:30 CDT 2019
+
+Your job looked like:
+
+------------------------------------------------------------
+python /home/s1/tavangar/tavangar_simple/search_algorithm.py 37.97 16.96 0.00 /home/s1/tavangar/tavangar_simple/decals_dr7_results/results_nside_32_4301.csv /home/s1/tavangar/tavangar_simple/decals_dr7_log/results_nside_32_4301.log
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+	Real time :			18.53 sec.
+	CPU time :			1.66 sec.
+	CPU percentage :		20%
+	Max Memory :			281840 KB
+	Average Memory :		0 KB
+
+The output (if any) is above this job summary.

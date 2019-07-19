@@ -1,0 +1,45 @@
+/home/s1/tavangar/tavangar_simple/simple_utils.py:170: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
+  if np.all(isochrone.stage == 'Main'):
+Search coordinates: (RA, Dec) = (337.50, 31.39)
+Center healpixel: 3000
+Healpixels: [3000 3127 2999 2871 2744 2872 3001 3128 3256]
+MC_SOURCE_ID = 0.0
+mode = 0: running only on real data
+Found 1 objects...
+Applying cuts...
+141415 star-like objects in ROI...
+88088 galaxy-like objects in ROI...
+No fracdet map specified ...
+Distance = 15.8 kpc (m-M = 16.0)
+141408 objects left after isochrone cut...
+Characteristic density = 13000.0 deg^-2
+Traceback (most recent call last):
+  File "/home/s1/tavangar/tavangar_simple/search_algorithm.py", line 171, in <module>
+    ra_peaks, dec_peaks, r_peaks, sig_peaks, dist_moduli, n_obs_peaks, n_obs_half_peaks, n_model_peaks = simple_utils.search_by_distance(nside, data, distance_modulus, pix_nside_select, ra_select, dec_select, mag_max, fracdet)
+  File "/home/s1/tavangar/tavangar_simple/simple_utils.py", line 531, in search_by_distance
+    ra_peak_array = np.concatenate(ra_peak_array)
+ValueError: need at least one array to concatenate
+
+------------------------------------------------------------
+Job <678852.0> was submitted from <des51.fnal.gov> by user <tavangar>.
+Job was executed on host <des40.fnal.gov> as user <tavangar>.
+</var/lib/condor/execute/dir_1638983> was used as the initial working directory.
+Results reported at Wed Jun  5 01:38:14 CDT 2019
+
+Your job looked like:
+
+------------------------------------------------------------
+python /home/s1/tavangar/tavangar_simple/search_algorithm.py 337.50 31.39 0.00 /home/s1/tavangar/tavangar_simple/decals_dr7_results/results_nside_32_3000.csv /home/s1/tavangar/tavangar_simple/decals_dr7_results/decals_dr7_log/results_nside_32_3000.log
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+	Real time :			28.03 sec.
+	CPU time :			2.04 sec.
+	CPU percentage :		38%
+	Max Memory :			2083696 KB
+	Average Memory :		0 KB
+
+The output (if any) is above this job summary.

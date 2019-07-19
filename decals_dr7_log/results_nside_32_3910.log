@@ -1,0 +1,37 @@
+Search coordinates: (RA, Dec) = (16.88, 20.74)
+Center healpixel: 3910
+Healpixels: [3910 4037 3909 3781 3654 3782 3911 4038 4166]
+MC_SOURCE_ID = 0.0
+mode = 0: running only on real data
+Found 1 objects...
+Applying cuts...
+Traceback (most recent call last):
+  File "/home/s1/tavangar/tavangar_simple/search_algorithm.py", line 138, in <module>
+    cut = filters.star_filter(survey, data)
+  File "/home/s1/tavangar/tavangar_simple/filters.py", line 107, in star_filter
+    return cut
+UnboundLocalError: local variable 'cut' referenced before assignment
+
+------------------------------------------------------------
+Job <672767.0> was submitted from <des51.fnal.gov> by user <tavangar>.
+Job was executed on host <des40.fnal.gov> as user <tavangar>.
+</var/lib/condor/execute/dir_750745> was used as the initial working directory.
+Results reported at Tue Jun  4 13:17:48 CDT 2019
+
+Your job looked like:
+
+------------------------------------------------------------
+python /home/s1/tavangar/tavangar_simple/search_algorithm.py 16.88 20.74 0.00 /home/s1/tavangar/tavangar_simple/decals_dr7_results/results_nside_32_3910.csv /home/s1/tavangar/tavangar_simple/decals_dr7_log/results_nside_32_3910.log
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+	Real time :			25.44 sec.
+	CPU time :			2.85 sec.
+	CPU percentage :		68%
+	Max Memory :			4425744 KB
+	Average Memory :		0 KB
+
+The output (if any) is above this job summary.

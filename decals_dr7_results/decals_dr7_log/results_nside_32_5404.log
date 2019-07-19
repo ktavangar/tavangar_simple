@@ -1,0 +1,132 @@
+/home/s1/tavangar/tavangar_simple/simple_utils.py:170: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
+  if np.all(isochrone.stage == 'Main'):
+Search coordinates: (RA, Dec) = (260.16, 7.18)
+Center healpixel: 5404
+Healpixels: [5404 5532 5403 5276 5148 5277 5405 5533 5660]
+MC_SOURCE_ID = 0.0
+mode = 0: running only on real data
+Found 1 objects...
+Applying cuts...
+550486 star-like objects in ROI...
+185963 galaxy-like objects in ROI...
+No fracdet map specified ...
+Distance = 15.8 kpc (m-M = 16.0)
+550482 objects left after isochrone cut...
+Characteristic density = 25400.0 deg^-2
+Characteristic density local = 25400.0 deg^-2 = 7.056 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.295, y_peak:        0.725, r_peak:        0.050, sig:        5.286, ra_peak:      259.862, dec_peak:        7.905
+Distance = 20.0 kpc (m-M = 16.5)
+550484 objects left after isochrone cut...
+Characteristic density = 25400.0 deg^-2
+Characteristic density local = 25400.0 deg^-2 = 7.056 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.295, y_peak:        0.725, r_peak:        0.050, sig:        5.286, ra_peak:      259.862, dec_peak:        7.905
+Distance = 25.1 kpc (m-M = 17.0)
+550484 objects left after isochrone cut...
+Characteristic density = 25400.0 deg^-2
+Characteristic density local = 25400.0 deg^-2 = 7.056 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.295, y_peak:        0.725, r_peak:        0.050, sig:        5.286, ra_peak:      259.862, dec_peak:        7.905
+Distance = 31.6 kpc (m-M = 17.5)
+550482 objects left after isochrone cut...
+Characteristic density = 25400.0 deg^-2
+Characteristic density local = 25400.0 deg^-2 = 7.056 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.295, y_peak:        0.725, r_peak:        0.050, sig:        5.286, ra_peak:      259.862, dec_peak:        7.905
+Distance = 39.8 kpc (m-M = 18.0)
+550435 objects left after isochrone cut...
+Characteristic density = 25400.0 deg^-2
+Characteristic density local = 25400.0 deg^-2 = 7.056 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.295, y_peak:        0.725, r_peak:        0.050, sig:        5.286, ra_peak:      259.862, dec_peak:        7.905
+Distance = 50.1 kpc (m-M = 18.5)
+549682 objects left after isochrone cut...
+Characteristic density = 25400.0 deg^-2
+Characteristic density local = 25400.0 deg^-2 = 7.056 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.295, y_peak:        0.725, r_peak:        0.050, sig:        5.286, ra_peak:      259.862, dec_peak:        7.905
+Distance = 63.1 kpc (m-M = 19.0)
+548027 objects left after isochrone cut...
+Characteristic density = 25200.0 deg^-2
+Characteristic density local = 25200.0 deg^-2 = 7.000 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.295, y_peak:        0.725, r_peak:        0.050, sig:        5.404, ra_peak:      259.862, dec_peak:        7.905
+Distance = 79.4 kpc (m-M = 19.5)
+543640 objects left after isochrone cut...
+Characteristic density = 24800.0 deg^-2
+Characteristic density local = 24800.0 deg^-2 = 6.889 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.295, y_peak:        0.725, r_peak:        0.050, sig:        5.579, ra_peak:      259.862, dec_peak:        7.905
+Distance = 100.0 kpc (m-M = 20.0)
+537150 objects left after isochrone cut...
+Characteristic density = 24300.0 deg^-2
+Characteristic density local = 24300.0 deg^-2 = 6.750 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.285, y_peak:        0.725, r_peak:        0.060, sig:        5.759, ra_peak:      259.872, dec_peak:        7.905
+Distance = 125.9 kpc (m-M = 20.5)
+528425 objects left after isochrone cut...
+Characteristic density = 23500.0 deg^-2
+Characteristic density local = 23500.0 deg^-2 = 6.528 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.285, y_peak:        0.725, r_peak:        0.060, sig:        5.683, ra_peak:      259.872, dec_peak:        7.905
+Distance = 158.5 kpc (m-M = 21.0)
+517497 objects left after isochrone cut...
+Characteristic density = 22500.0 deg^-2
+Characteristic density local = 22500.0 deg^-2 = 6.250 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.285, y_peak:        0.725, r_peak:        0.060, sig:        5.644, ra_peak:      259.872, dec_peak:        7.905
+Distance = 199.5 kpc (m-M = 21.5)
+503824 objects left after isochrone cut...
+Characteristic density = 21200.0 deg^-2
+Characteristic density local = 21200.0 deg^-2 = 5.889 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.295, y_peak:        0.725, r_peak:        0.050, sig:        5.111, ra_peak:      259.862, dec_peak:        7.905
+Distance = 251.2 kpc (m-M = 22.0)
+487384 objects left after isochrone cut...
+Characteristic density = 19700.0 deg^-2
+Characteristic density local = 19700.0 deg^-2 = 5.472 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.305, y_peak:        0.715, r_peak:        0.080, sig:        5.278, ra_peak:      259.852, dec_peak:        7.895
+Characteristic density local = 19700.0 deg^-2 = 5.472 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -1.015, y_peak:        0.325, r_peak:        0.120, sig:        1.839, ra_peak:      259.136, dec_peak:        7.504
+Distance = 316.2 kpc (m-M = 22.5)
+468403 objects left after isochrone cut...
+Characteristic density = 17900.0 deg^-2
+Characteristic density local = 17900.0 deg^-2 = 4.972 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.475, y_peak:        0.535, r_peak:        0.060, sig:        5.568, ra_peak:      259.681, dec_peak:        7.715
+Distance = 398.1 kpc (m-M = 23.0)
+446261 objects left after isochrone cut...
+Characteristic density = 15900.0 deg^-2
+Characteristic density local = 15900.0 deg^-2 = 4.417 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.475, y_peak:        0.535, r_peak:        0.040, sig:        6.038, ra_peak:      259.681, dec_peak:        7.715
+6.04 sigma; (RA, Dec, d) = (259.68, 7.71); r = 0.04 deg; d = 398.1, mu = 23.00 mag), mc_source_id: 0.00
+5.76 sigma; (RA, Dec, d) = (259.87, 7.90); r = 0.06 deg; d = 100.0, mu = 20.00 mag), mc_source_id: 0.00
+1.84 sigma; (RA, Dec, d) = (259.14, 7.50); r = 0.12 deg; d = 251.2, mu = 22.00 mag), mc_source_id: 0.00
+
+------------------------------------------------------------
+Job <680454.0> was submitted from <des51.fnal.gov> by user <tavangar>.
+Job was executed on host <des40.fnal.gov> as user <tavangar>.
+</var/lib/condor/execute/dir_1923682> was used as the initial working directory.
+Results reported at Wed Jun  5 09:19:55 CDT 2019
+
+Your job looked like:
+
+------------------------------------------------------------
+python /home/s1/tavangar/tavangar_simple/search_algorithm.py 260.16 7.18 0.00 /home/s1/tavangar/tavangar_simple/decals_dr7_results/results_nside_32_5404.csv /home/s1/tavangar/tavangar_simple/decals_dr7_results/decals_dr7_log/results_nside_32_5404.log
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+	Real time :			192.44 sec.
+	CPU time :			32.81 sec.
+	CPU percentage :		86%
+	Max Memory :			2836880 KB
+	Average Memory :		0 KB
+
+The output (if any) is above this job summary.

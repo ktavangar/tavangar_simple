@@ -1,0 +1,38 @@
+/home/s1/tavangar/tavangar_simple/simple_utils.py:170: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
+  if np.all(isochrone.stage == 'Main'):
+/cvmfs/des.opensciencegrid.org/fnal/anaconda2/envs/des18a/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2957: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+/cvmfs/des.opensciencegrid.org/fnal/anaconda2/envs/des18a/lib/python2.7/site-packages/numpy/core/_methods.py:80: RuntimeWarning: invalid value encountered in true_divide
+  ret = ret.dtype.type(ret / rcount)
+/cvmfs/des.opensciencegrid.org/fnal/anaconda2/envs/des18a/lib/python2.7/site-packages/matplotlib/cbook/__init__.py:2446: UserWarning: Saw kwargs [u'c', u'color'] which are all aliases for u'color'.  Kept value from u'color'
+  seen=seen, canon=canonical, used=seen[-1]))
+agg
+mode = 0: running only on real data
+Loading data...
+Assembling data...
+Found 222947 objects...
+Making diagnostic plots for (RA, DEC) = (0.0, 1.09)...
+
+------------------------------------------------------------
+Job <725130.0> was submitted from <des51.fnal.gov> by user <tavangar>.
+Job was executed on host <des40.fnal.gov> as user <tavangar>.
+</var/lib/condor/execute/dir_2454000> was used as the initial working directory.
+Results reported at Fri Jun  7 18:31:46 CDT 2019
+
+Your job looked like:
+
+------------------------------------------------------------
+python /home/s1/tavangar/tavangar_simple/plotting/web_plot.py 0.00 1.09 23.00 9.78 0.00 0.7907
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+	Real time :			93.22 sec.
+	CPU time :			4.93 sec.
+	CPU percentage :		57%
+	Max Memory :			8674592 KB
+	Average Memory :		0 KB
+
+The output (if any) is above this job summary.

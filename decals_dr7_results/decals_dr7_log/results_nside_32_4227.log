@@ -1,0 +1,477 @@
+/home/s1/tavangar/tavangar_simple/simple_utils.py:170: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
+  if np.all(isochrone.stage == 'Main'):
+Search coordinates: (RA, Dec) = (188.44, 18.21)
+Center healpixel: 4227
+Healpixels: [4227 4354 4226 4098 3971 4099 4228 4355 4483]
+MC_SOURCE_ID = 0.0
+mode = 0: running only on real data
+Found 1 objects...
+Applying cuts...
+701965 star-like objects in ROI...
+1218536 galaxy-like objects in ROI...
+No fracdet map specified ...
+Distance = 15.8 kpc (m-M = 16.0)
+701950 objects left after isochrone cut...
+Characteristic density = 4700.0 deg^-2
+Characteristic density local = 4931.8 deg^-2 = 1.370 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.885, y_peak:       -0.305, r_peak:        0.040, sig:        9.917, ra_peak:      187.510, dec_peak:       17.903
+Characteristic density local = 5031.3 deg^-2 = 1.398 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.585, y_peak:       -0.515, r_peak:        0.030, sig:        4.180, ra_peak:      187.826, dec_peak:       17.694
+Characteristic density local = 4786.6 deg^-2 = 1.330 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.495, y_peak:        0.775, r_peak:        0.030, sig:        4.197, ra_peak:      187.917, dec_peak:       18.984
+Characteristic density local = 4703.0 deg^-2 = 1.306 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.405, y_peak:       -0.545, r_peak:        0.010, sig:        7.122, ra_peak:      188.015, dec_peak:       17.665
+Characteristic density local = 4856.2 deg^-2 = 1.349 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.365, y_peak:       -0.165, r_peak:        0.020, sig:        3.524, ra_peak:      188.056, dec_peak:       18.045
+Characteristic density local = 4770.7 deg^-2 = 1.325 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.135, y_peak:        1.045, r_peak:        0.020, sig:        5.952, ra_peak:      188.297, dec_peak:       19.255
+Characteristic density local = 4985.5 deg^-2 = 1.385 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.035, y_peak:       -0.875, r_peak:        0.030, sig:        3.404, ra_peak:      188.477, dec_peak:       17.335
+Characteristic density local = 4921.9 deg^-2 = 1.367 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.325, y_peak:        0.165, r_peak:        0.030, sig:       34.664, ra_peak:      188.782, dec_peak:       18.375
+Characteristic density local = 5419.2 deg^-2 = 1.505 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.715, y_peak:        0.375, r_peak:        0.020, sig:        4.271, ra_peak:      189.194, dec_peak:       18.584
+Distance = 20.0 kpc (m-M = 16.5)
+701958 objects left after isochrone cut...
+Characteristic density = 4700.0 deg^-2
+Characteristic density local = 4931.8 deg^-2 = 1.370 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.885, y_peak:       -0.305, r_peak:        0.040, sig:        9.917, ra_peak:      187.510, dec_peak:       17.903
+Characteristic density local = 5031.3 deg^-2 = 1.398 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.585, y_peak:       -0.515, r_peak:        0.030, sig:        4.180, ra_peak:      187.826, dec_peak:       17.694
+Characteristic density local = 4786.6 deg^-2 = 1.330 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.495, y_peak:        0.775, r_peak:        0.030, sig:        4.197, ra_peak:      187.917, dec_peak:       18.984
+Characteristic density local = 4703.0 deg^-2 = 1.306 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.405, y_peak:       -0.545, r_peak:        0.010, sig:        7.122, ra_peak:      188.015, dec_peak:       17.665
+Characteristic density local = 4856.2 deg^-2 = 1.349 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.365, y_peak:       -0.165, r_peak:        0.020, sig:        3.524, ra_peak:      188.056, dec_peak:       18.045
+Characteristic density local = 4770.7 deg^-2 = 1.325 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.135, y_peak:        1.045, r_peak:        0.020, sig:        5.952, ra_peak:      188.297, dec_peak:       19.255
+Characteristic density local = 4985.5 deg^-2 = 1.385 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.035, y_peak:       -0.875, r_peak:        0.030, sig:        3.404, ra_peak:      188.477, dec_peak:       17.335
+Characteristic density local = 4921.9 deg^-2 = 1.367 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.325, y_peak:        0.165, r_peak:        0.030, sig:       34.664, ra_peak:      188.782, dec_peak:       18.375
+Characteristic density local = 5419.2 deg^-2 = 1.505 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.715, y_peak:        0.375, r_peak:        0.020, sig:        4.271, ra_peak:      189.194, dec_peak:       18.584
+Distance = 25.1 kpc (m-M = 17.0)
+701962 objects left after isochrone cut...
+Characteristic density = 4700.0 deg^-2
+Characteristic density local = 4931.8 deg^-2 = 1.370 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.885, y_peak:       -0.305, r_peak:        0.040, sig:        9.917, ra_peak:      187.510, dec_peak:       17.903
+Characteristic density local = 5031.3 deg^-2 = 1.398 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.585, y_peak:       -0.515, r_peak:        0.030, sig:        4.180, ra_peak:      187.826, dec_peak:       17.694
+Characteristic density local = 4786.6 deg^-2 = 1.330 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.495, y_peak:        0.775, r_peak:        0.030, sig:        4.197, ra_peak:      187.917, dec_peak:       18.984
+Characteristic density local = 4703.0 deg^-2 = 1.306 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.405, y_peak:       -0.545, r_peak:        0.010, sig:        7.122, ra_peak:      188.015, dec_peak:       17.665
+Characteristic density local = 4856.2 deg^-2 = 1.349 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.365, y_peak:       -0.165, r_peak:        0.020, sig:        3.524, ra_peak:      188.056, dec_peak:       18.045
+Characteristic density local = 4770.7 deg^-2 = 1.325 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.135, y_peak:        1.045, r_peak:        0.020, sig:        5.952, ra_peak:      188.297, dec_peak:       19.255
+Characteristic density local = 4985.5 deg^-2 = 1.385 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.035, y_peak:       -0.875, r_peak:        0.030, sig:        3.404, ra_peak:      188.477, dec_peak:       17.335
+Characteristic density local = 4921.9 deg^-2 = 1.367 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.325, y_peak:        0.165, r_peak:        0.030, sig:       34.664, ra_peak:      188.782, dec_peak:       18.375
+Characteristic density local = 5419.2 deg^-2 = 1.505 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.715, y_peak:        0.375, r_peak:        0.020, sig:        4.271, ra_peak:      189.194, dec_peak:       18.584
+Distance = 31.6 kpc (m-M = 17.5)
+701965 objects left after isochrone cut...
+Characteristic density = 4700.0 deg^-2
+Characteristic density local = 4931.8 deg^-2 = 1.370 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.885, y_peak:       -0.305, r_peak:        0.040, sig:        9.917, ra_peak:      187.510, dec_peak:       17.903
+Characteristic density local = 5031.3 deg^-2 = 1.398 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.585, y_peak:       -0.515, r_peak:        0.030, sig:        4.180, ra_peak:      187.826, dec_peak:       17.694
+Characteristic density local = 4786.6 deg^-2 = 1.330 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.495, y_peak:        0.775, r_peak:        0.030, sig:        4.197, ra_peak:      187.917, dec_peak:       18.984
+Characteristic density local = 4703.0 deg^-2 = 1.306 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.405, y_peak:       -0.545, r_peak:        0.010, sig:        7.122, ra_peak:      188.015, dec_peak:       17.665
+Characteristic density local = 4856.2 deg^-2 = 1.349 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.365, y_peak:       -0.165, r_peak:        0.020, sig:        3.524, ra_peak:      188.056, dec_peak:       18.045
+Characteristic density local = 4770.7 deg^-2 = 1.325 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.135, y_peak:        1.045, r_peak:        0.020, sig:        5.952, ra_peak:      188.297, dec_peak:       19.255
+Characteristic density local = 4985.5 deg^-2 = 1.385 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.035, y_peak:       -0.875, r_peak:        0.030, sig:        3.404, ra_peak:      188.477, dec_peak:       17.335
+Characteristic density local = 4921.9 deg^-2 = 1.367 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.325, y_peak:        0.165, r_peak:        0.030, sig:       34.664, ra_peak:      188.782, dec_peak:       18.375
+Characteristic density local = 5419.2 deg^-2 = 1.505 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.715, y_peak:        0.375, r_peak:        0.020, sig:        4.271, ra_peak:      189.194, dec_peak:       18.584
+Distance = 39.8 kpc (m-M = 18.0)
+701964 objects left after isochrone cut...
+Characteristic density = 4700.0 deg^-2
+Characteristic density local = 4931.8 deg^-2 = 1.370 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.885, y_peak:       -0.305, r_peak:        0.040, sig:        9.917, ra_peak:      187.510, dec_peak:       17.903
+Characteristic density local = 5031.3 deg^-2 = 1.398 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.585, y_peak:       -0.515, r_peak:        0.030, sig:        4.180, ra_peak:      187.826, dec_peak:       17.694
+Characteristic density local = 4786.6 deg^-2 = 1.330 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.495, y_peak:        0.775, r_peak:        0.030, sig:        4.197, ra_peak:      187.917, dec_peak:       18.984
+Characteristic density local = 4703.0 deg^-2 = 1.306 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.405, y_peak:       -0.545, r_peak:        0.010, sig:        7.122, ra_peak:      188.015, dec_peak:       17.665
+Characteristic density local = 4856.2 deg^-2 = 1.349 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.365, y_peak:       -0.165, r_peak:        0.020, sig:        3.524, ra_peak:      188.056, dec_peak:       18.045
+Characteristic density local = 4770.7 deg^-2 = 1.325 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.135, y_peak:        1.045, r_peak:        0.020, sig:        5.952, ra_peak:      188.297, dec_peak:       19.255
+Characteristic density local = 4985.5 deg^-2 = 1.385 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.035, y_peak:       -0.875, r_peak:        0.030, sig:        3.404, ra_peak:      188.477, dec_peak:       17.335
+Characteristic density local = 4921.9 deg^-2 = 1.367 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.325, y_peak:        0.165, r_peak:        0.030, sig:       34.664, ra_peak:      188.782, dec_peak:       18.375
+Characteristic density local = 5419.2 deg^-2 = 1.505 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.715, y_peak:        0.375, r_peak:        0.020, sig:        4.271, ra_peak:      189.194, dec_peak:       18.584
+Distance = 50.1 kpc (m-M = 18.5)
+701744 objects left after isochrone cut...
+Characteristic density = 4700.0 deg^-2
+Characteristic density local = 4921.9 deg^-2 = 1.367 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.885, y_peak:       -0.305, r_peak:        0.040, sig:        9.930, ra_peak:      187.510, dec_peak:       17.903
+Characteristic density local = 5011.4 deg^-2 = 1.392 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.585, y_peak:       -0.515, r_peak:        0.030, sig:        4.197, ra_peak:      187.826, dec_peak:       17.694
+Characteristic density local = 4780.6 deg^-2 = 1.328 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.495, y_peak:        0.775, r_peak:        0.030, sig:        4.202, ra_peak:      187.917, dec_peak:       18.984
+Characteristic density local = 4689.1 deg^-2 = 1.303 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.405, y_peak:       -0.545, r_peak:        0.010, sig:        7.128, ra_peak:      188.015, dec_peak:       17.665
+Characteristic density local = 4840.3 deg^-2 = 1.345 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.365, y_peak:       -0.165, r_peak:        0.020, sig:        3.534, ra_peak:      188.056, dec_peak:       18.045
+Characteristic density local = 4758.7 deg^-2 = 1.322 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.135, y_peak:        1.045, r_peak:        0.020, sig:        5.961, ra_peak:      188.297, dec_peak:       19.255
+Characteristic density local = 4963.6 deg^-2 = 1.379 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.035, y_peak:       -0.875, r_peak:        0.030, sig:        3.423, ra_peak:      188.477, dec_peak:       17.335
+Characteristic density local = 4909.9 deg^-2 = 1.364 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.325, y_peak:        0.165, r_peak:        0.030, sig:       34.683, ra_peak:      188.782, dec_peak:       18.375
+Characteristic density local = 5411.3 deg^-2 = 1.503 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.715, y_peak:        0.375, r_peak:        0.020, sig:        4.276, ra_peak:      189.194, dec_peak:       18.584
+Distance = 63.1 kpc (m-M = 19.0)
+700674 objects left after isochrone cut...
+Characteristic density = 4600.0 deg^-2
+Characteristic density local = 4874.1 deg^-2 = 1.354 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.885, y_peak:       -0.305, r_peak:        0.040, sig:        9.992, ra_peak:      187.510, dec_peak:       17.903
+Characteristic density local = 4979.6 deg^-2 = 1.383 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.585, y_peak:       -0.515, r_peak:        0.030, sig:        4.225, ra_peak:      187.826, dec_peak:       17.694
+Characteristic density local = 4752.8 deg^-2 = 1.320 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.495, y_peak:        0.775, r_peak:        0.030, sig:        4.023, ra_peak:      187.917, dec_peak:       18.984
+Characteristic density local = 4665.2 deg^-2 = 1.296 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.405, y_peak:       -0.545, r_peak:        0.010, sig:        7.139, ra_peak:      188.015, dec_peak:       17.665
+Characteristic density local = 4724.9 deg^-2 = 1.312 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.135, y_peak:        1.045, r_peak:        0.020, sig:        5.984, ra_peak:      188.297, dec_peak:       19.255
+Characteristic density local = 4872.1 deg^-2 = 1.353 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.325, y_peak:        0.165, r_peak:        0.030, sig:       34.745, ra_peak:      188.782, dec_peak:       18.375
+Characteristic density local = 5365.5 deg^-2 = 1.490 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.715, y_peak:        0.375, r_peak:        0.020, sig:        4.304, ra_peak:      189.194, dec_peak:       18.584
+Distance = 79.4 kpc (m-M = 19.5)
+698993 objects left after isochrone cut...
+Characteristic density = 4600.0 deg^-2
+Characteristic density local = 4808.5 deg^-2 = 1.336 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.885, y_peak:       -0.305, r_peak:        0.040, sig:       10.079, ra_peak:      187.510, dec_peak:       17.903
+Characteristic density local = 4923.9 deg^-2 = 1.368 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.595, y_peak:       -0.515, r_peak:        0.040, sig:        4.402, ra_peak:      187.815, dec_peak:       17.694
+Characteristic density local = 4689.1 deg^-2 = 1.303 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.495, y_peak:        0.775, r_peak:        0.030, sig:        4.081, ra_peak:      187.917, dec_peak:       18.984
+Characteristic density local = 4599.6 deg^-2 = 1.278 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.405, y_peak:       -0.545, r_peak:        0.010, sig:        7.170, ra_peak:      188.015, dec_peak:       17.665
+Characteristic density local = 4762.7 deg^-2 = 1.323 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.365, y_peak:       -0.165, r_peak:        0.030, sig:        3.599, ra_peak:      188.056, dec_peak:       18.045
+Characteristic density local = 4651.3 deg^-2 = 1.292 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.135, y_peak:        1.045, r_peak:        0.020, sig:        6.036, ra_peak:      188.297, dec_peak:       19.255
+Characteristic density local = 4876.1 deg^-2 = 1.354 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.035, y_peak:       -0.875, r_peak:        0.030, sig:        3.499, ra_peak:      188.477, dec_peak:       17.335
+Characteristic density local = 4790.6 deg^-2 = 1.331 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.325, y_peak:        0.165, r_peak:        0.030, sig:       34.790, ra_peak:      188.782, dec_peak:       18.375
+Characteristic density local = 5293.9 deg^-2 = 1.471 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.715, y_peak:        0.375, r_peak:        0.020, sig:        4.347, ra_peak:      189.194, dec_peak:       18.584
+Distance = 100.0 kpc (m-M = 20.0)
+696954 objects left after isochrone cut...
+Characteristic density = 4500.0 deg^-2
+Characteristic density local = 4734.9 deg^-2 = 1.315 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.885, y_peak:       -0.305, r_peak:        0.040, sig:       10.178, ra_peak:      187.510, dec_peak:       17.903
+Characteristic density local = 4828.4 deg^-2 = 1.341 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.595, y_peak:       -0.515, r_peak:        0.040, sig:        4.513, ra_peak:      187.815, dec_peak:       17.694
+Characteristic density local = 4617.5 deg^-2 = 1.283 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.495, y_peak:        0.775, r_peak:        0.030, sig:        4.147, ra_peak:      187.917, dec_peak:       18.984
+Characteristic density local = 4526.0 deg^-2 = 1.257 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.405, y_peak:       -0.545, r_peak:        0.010, sig:        6.857, ra_peak:      188.015, dec_peak:       17.665
+Characteristic density local = 4583.7 deg^-2 = 1.273 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.135, y_peak:        1.045, r_peak:        0.020, sig:        6.084, ra_peak:      188.297, dec_peak:       19.255
+Characteristic density local = 4752.8 deg^-2 = 1.320 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.035, y_peak:        0.655, r_peak:        0.040, sig:        3.625, ra_peak:      188.403, dec_peak:       18.865
+Characteristic density local = 4824.4 deg^-2 = 1.340 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.035, y_peak:       -0.885, r_peak:        0.040, sig:        2.867, ra_peak:      188.477, dec_peak:       17.325
+Characteristic density local = 4720.9 deg^-2 = 1.311 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.325, y_peak:        0.165, r_peak:        0.030, sig:       34.817, ra_peak:      188.782, dec_peak:       18.375
+Characteristic density local = 5216.3 deg^-2 = 1.449 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.715, y_peak:        0.375, r_peak:        0.030, sig:        4.411, ra_peak:      189.194, dec_peak:       18.584
+Distance = 125.9 kpc (m-M = 20.5)
+694366 objects left after isochrone cut...
+Characteristic density = 4400.0 deg^-2
+Characteristic density local = 4629.4 deg^-2 = 1.286 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.325, y_peak:        0.165, r_peak:        0.030, sig:       34.971, ra_peak:      188.782, dec_peak:       18.375
+Characteristic density local = 4730.9 deg^-2 = 1.314 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -1.265, y_peak:        0.065, r_peak:        0.120, sig:        1.851, ra_peak:      187.108, dec_peak:       18.270
+Characteristic density local = 4691.1 deg^-2 = 1.303 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.685, y_peak:        0.445, r_peak:        0.010, sig:        2.111, ra_peak:      187.717, dec_peak:       18.654
+Characteristic density local = 4400.6 deg^-2 = 1.222 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.585, y_peak:        0.575, r_peak:        0.030, sig:        1.890, ra_peak:      187.822, dec_peak:       18.784
+Characteristic density local = 5204.4 deg^-2 = 1.446 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.115, y_peak:        0.535, r_peak:        0.010, sig:        0.753, ra_peak:      188.561, dec_peak:       18.745
+Characteristic density local = 5132.7 deg^-2 = 1.426 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.715, y_peak:        0.375, r_peak:        0.030, sig:        4.484, ra_peak:      189.194, dec_peak:       18.584
+Characteristic density local = 4494.1 deg^-2 = 1.248 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.285, y_peak:        0.985, r_peak:        0.010, sig:        0.957, ra_peak:      188.742, dec_peak:       19.195
+Characteristic density local = 4840.3 deg^-2 = 1.345 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.675, y_peak:       -0.615, r_peak:        0.050, sig:        2.677, ra_peak:      189.148, dec_peak:       17.594
+Characteristic density local = 4428.5 deg^-2 = 1.230 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.735, y_peak:        0.555, r_peak:        0.290, sig:        1.958, ra_peak:      189.216, dec_peak:       18.763
+Distance = 158.5 kpc (m-M = 21.0)
+691197 objects left after isochrone cut...
+Characteristic density = 4300.0 deg^-2
+Characteristic density local = 4535.9 deg^-2 = 1.260 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.885, y_peak:       -0.305, r_peak:        0.040, sig:       10.320, ra_peak:      187.510, dec_peak:       17.903
+Characteristic density local = 4629.4 deg^-2 = 1.286 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.595, y_peak:       -0.515, r_peak:        0.040, sig:        4.749, ra_peak:      187.815, dec_peak:       17.694
+Characteristic density local = 4414.6 deg^-2 = 1.226 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.495, y_peak:        0.775, r_peak:        0.080, sig:        3.967, ra_peak:      187.917, dec_peak:       18.984
+Characteristic density local = 4346.9 deg^-2 = 1.207 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.405, y_peak:       -0.545, r_peak:        0.010, sig:        6.941, ra_peak:      188.015, dec_peak:       17.665
+Characteristic density local = 4414.6 deg^-2 = 1.226 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.135, y_peak:        1.045, r_peak:        0.020, sig:        6.207, ra_peak:      188.297, dec_peak:       19.255
+Characteristic density local = 4531.9 deg^-2 = 1.259 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.325, y_peak:        0.165, r_peak:        0.030, sig:       34.960, ra_peak:      188.782, dec_peak:       18.375
+Characteristic density local = 5033.3 deg^-2 = 1.398 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.715, y_peak:        0.375, r_peak:        0.030, sig:        4.572, ra_peak:      189.194, dec_peak:       18.584
+Distance = 199.5 kpc (m-M = 21.5)
+687290 objects left after isochrone cut...
+Characteristic density = 4200.0 deg^-2
+Characteristic density local = 4400.6 deg^-2 = 1.222 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.885, y_peak:       -0.305, r_peak:        0.040, sig:       10.510, ra_peak:      187.510, dec_peak:       17.903
+Characteristic density local = 4514.0 deg^-2 = 1.254 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.595, y_peak:       -0.515, r_peak:        0.040, sig:        4.566, ra_peak:      187.815, dec_peak:       17.694
+Characteristic density local = 4273.3 deg^-2 = 1.187 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.485, y_peak:        0.765, r_peak:        0.080, sig:        4.293, ra_peak:      187.927, dec_peak:       18.974
+Characteristic density local = 4225.6 deg^-2 = 1.174 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.405, y_peak:       -0.545, r_peak:        0.010, sig:        7.000, ra_peak:      188.015, dec_peak:       17.665
+Characteristic density local = 4279.3 deg^-2 = 1.189 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.135, y_peak:        1.045, r_peak:        0.020, sig:        6.308, ra_peak:      188.297, dec_peak:       19.255
+Characteristic density local = 4416.5 deg^-2 = 1.227 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.325, y_peak:        0.165, r_peak:        0.030, sig:       34.714, ra_peak:      188.782, dec_peak:       18.375
+Characteristic density local = 4904.0 deg^-2 = 1.362 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.715, y_peak:        0.375, r_peak:        0.030, sig:        4.293, ra_peak:      189.194, dec_peak:       18.584
+Characteristic density local = 4239.5 deg^-2 = 1.178 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.895, y_peak:        0.405, r_peak:        0.040, sig:        4.069, ra_peak:      189.384, dec_peak:       18.613
+Distance = 251.2 kpc (m-M = 22.0)
+682544 objects left after isochrone cut...
+Characteristic density = 4000.0 deg^-2
+Characteristic density local = 4241.5 deg^-2 = 1.178 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.325, y_peak:        0.165, r_peak:        0.030, sig:       34.754, ra_peak:      188.782, dec_peak:       18.375
+Characteristic density local = 4333.0 deg^-2 = 1.204 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.685, y_peak:       -0.605, r_peak:        0.050, sig:        2.956, ra_peak:      189.159, dec_peak:       17.604
+Characteristic density local = 4054.5 deg^-2 = 1.126 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.735, y_peak:        0.555, r_peak:        0.020, sig:        1.807, ra_peak:      189.216, dec_peak:       18.763
+Characteristic density local = 4181.8 deg^-2 = 1.162 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.775, y_peak:       -0.525, r_peak:        0.030, sig:        1.066, ra_peak:      189.253, dec_peak:       17.683
+Distance = 316.2 kpc (m-M = 22.5)
+676693 objects left after isochrone cut...
+Characteristic density = 3800.0 deg^-2
+Characteristic density local = 4058.5 deg^-2 = 1.127 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.325, y_peak:        0.165, r_peak:        0.030, sig:       34.542, ra_peak:      188.782, dec_peak:       18.375
+Characteristic density local = 4289.2 deg^-2 = 1.191 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.625, y_peak:       -0.665, r_peak:        0.010, sig:        1.665, ra_peak:      187.785, dec_peak:       17.544
+Characteristic density local = 4030.6 deg^-2 = 1.120 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.295, y_peak:       -0.975, r_peak:        0.010, sig:        1.753, ra_peak:      188.131, dec_peak:       17.235
+Characteristic density local = 4034.6 deg^-2 = 1.121 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.285, y_peak:       -0.985, r_peak:        0.280, sig:        1.259, ra_peak:      188.142, dec_peak:       17.225
+Characteristic density local = 4152.0 deg^-2 = 1.153 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.255, y_peak:       -1.005, r_peak:        0.260, sig:        1.632, ra_peak:      188.707, dec_peak:       17.205
+Characteristic density local = 3961.0 deg^-2 = 1.100 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.295, y_peak:        0.975, r_peak:        0.020, sig:        0.724, ra_peak:      188.752, dec_peak:       19.185
+Characteristic density local = 3867.5 deg^-2 = 1.074 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.725, y_peak:        0.565, r_peak:        0.030, sig:        1.871, ra_peak:      189.206, dec_peak:       18.773
+Distance = 398.1 kpc (m-M = 23.0)
+669396 objects left after isochrone cut...
+Characteristic density = 3600.0 deg^-2
+Characteristic density local = 3835.6 deg^-2 = 1.065 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.325, y_peak:        0.165, r_peak:        0.030, sig:       34.223, ra_peak:      188.782, dec_peak:       18.375
+Characteristic density local = 4042.5 deg^-2 = 1.123 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.625, y_peak:       -0.665, r_peak:        0.010, sig:        1.749, ra_peak:      187.785, dec_peak:       17.544
+Characteristic density local = 3877.4 deg^-2 = 1.077 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.515, y_peak:       -0.595, r_peak:        0.020, sig:        1.920, ra_peak:      187.900, dec_peak:       17.614
+Characteristic density local = 3817.7 deg^-2 = 1.060 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.305, y_peak:       -0.965, r_peak:        0.020, sig:        1.959, ra_peak:      188.121, dec_peak:       17.245
+Characteristic density local = 3811.8 deg^-2 = 1.059 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:       -0.295, y_peak:       -0.975, r_peak:        0.010, sig:        1.831, ra_peak:      188.131, dec_peak:       17.235
+Characteristic density local = 3690.4 deg^-2 = 1.025 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.155, y_peak:        1.035, r_peak:        0.010, sig:        4.482, ra_peak:      188.604, dec_peak:       19.245
+Characteristic density local = 3921.2 deg^-2 = 1.089 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.685, y_peak:       -0.605, r_peak:        0.050, sig:        2.657, ra_peak:      189.159, dec_peak:       17.604
+Characteristic density local = 3642.7 deg^-2 = 1.012 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        0.725, y_peak:        0.565, r_peak:        0.030, sig:        1.823, ra_peak:      189.206, dec_peak:       18.773
+Characteristic density local = 3700.4 deg^-2 = 1.028 arcmin^-2
+Fitting aperture to hotspot...
+Candidate: x_peak:        1.025, y_peak:        0.245, r_peak:        0.030, sig:        2.286, ra_peak:      189.521, dec_peak:       18.452
+34.97 sigma; (RA, Dec, d) = (188.78, 18.37); r = 0.03 deg; d = 125.9, mu = 20.50 mag), mc_source_id: 0.00
+10.51 sigma; (RA, Dec, d) = (187.51, 17.90); r = 0.04 deg; d = 199.5, mu = 21.50 mag), mc_source_id: 0.00
+7.17 sigma; (RA, Dec, d) = (188.01, 17.66); r = 0.01 deg; d = 79.4, mu = 19.50 mag), mc_source_id: 0.00
+6.31 sigma; (RA, Dec, d) = (188.30, 19.25); r = 0.02 deg; d = 199.5, mu = 21.50 mag), mc_source_id: 0.00
+4.75 sigma; (RA, Dec, d) = (187.82, 17.69); r = 0.04 deg; d = 158.5, mu = 21.00 mag), mc_source_id: 0.00
+4.57 sigma; (RA, Dec, d) = (189.19, 18.58); r = 0.03 deg; d = 158.5, mu = 21.00 mag), mc_source_id: 0.00
+4.48 sigma; (RA, Dec, d) = (188.60, 19.24); r = 0.01 deg; d = 398.1, mu = 23.00 mag), mc_source_id: 0.00
+4.29 sigma; (RA, Dec, d) = (187.93, 18.97); r = 0.08 deg; d = 199.5, mu = 21.50 mag), mc_source_id: 0.00
+4.07 sigma; (RA, Dec, d) = (189.38, 18.61); r = 0.04 deg; d = 199.5, mu = 21.50 mag), mc_source_id: 0.00
+3.62 sigma; (RA, Dec, d) = (188.40, 18.87); r = 0.04 deg; d = 100.0, mu = 20.00 mag), mc_source_id: 0.00
+3.60 sigma; (RA, Dec, d) = (188.06, 18.04); r = 0.03 deg; d = 79.4, mu = 19.50 mag), mc_source_id: 0.00
+3.50 sigma; (RA, Dec, d) = (188.48, 17.33); r = 0.03 deg; d = 79.4, mu = 19.50 mag), mc_source_id: 0.00
+2.96 sigma; (RA, Dec, d) = (189.16, 17.60); r = 0.05 deg; d = 251.2, mu = 22.00 mag), mc_source_id: 0.00
+2.29 sigma; (RA, Dec, d) = (189.52, 18.45); r = 0.03 deg; d = 398.1, mu = 23.00 mag), mc_source_id: 0.00
+2.11 sigma; (RA, Dec, d) = (187.72, 18.65); r = 0.01 deg; d = 125.9, mu = 20.50 mag), mc_source_id: 0.00
+1.96 sigma; (RA, Dec, d) = (188.12, 17.24); r = 0.02 deg; d = 398.1, mu = 23.00 mag), mc_source_id: 0.00
+1.96 sigma; (RA, Dec, d) = (189.22, 18.76); r = 0.29 deg; d = 125.9, mu = 20.50 mag), mc_source_id: 0.00
+1.92 sigma; (RA, Dec, d) = (187.90, 17.61); r = 0.02 deg; d = 398.1, mu = 23.00 mag), mc_source_id: 0.00
+1.89 sigma; (RA, Dec, d) = (187.82, 18.78); r = 0.03 deg; d = 125.9, mu = 20.50 mag), mc_source_id: 0.00
+1.85 sigma; (RA, Dec, d) = (187.11, 18.27); r = 0.12 deg; d = 125.9, mu = 20.50 mag), mc_source_id: 0.00
+1.75 sigma; (RA, Dec, d) = (187.78, 17.54); r = 0.01 deg; d = 398.1, mu = 23.00 mag), mc_source_id: 0.00
+1.63 sigma; (RA, Dec, d) = (188.71, 17.20); r = 0.26 deg; d = 316.2, mu = 22.50 mag), mc_source_id: 0.00
+1.26 sigma; (RA, Dec, d) = (188.14, 17.22); r = 0.28 deg; d = 316.2, mu = 22.50 mag), mc_source_id: 0.00
+1.07 sigma; (RA, Dec, d) = (189.25, 17.68); r = 0.03 deg; d = 251.2, mu = 22.00 mag), mc_source_id: 0.00
+0.96 sigma; (RA, Dec, d) = (188.74, 19.19); r = 0.01 deg; d = 125.9, mu = 20.50 mag), mc_source_id: 0.00
+0.75 sigma; (RA, Dec, d) = (188.56, 18.74); r = 0.01 deg; d = 125.9, mu = 20.50 mag), mc_source_id: 0.00
+0.72 sigma; (RA, Dec, d) = (188.75, 19.18); r = 0.02 deg; d = 316.2, mu = 22.50 mag), mc_source_id: 0.00
+
+------------------------------------------------------------
+Job <679650.0> was submitted from <des51.fnal.gov> by user <tavangar>.
+Job was executed on host <des40.fnal.gov> as user <tavangar>.
+</var/lib/condor/execute/dir_1777302> was used as the initial working directory.
+Results reported at Wed Jun  5 05:29:39 CDT 2019
+
+Your job looked like:
+
+------------------------------------------------------------
+python /home/s1/tavangar/tavangar_simple/search_algorithm.py 188.44 18.21 0.00 /home/s1/tavangar/tavangar_simple/decals_dr7_results/results_nside_32_4227.csv /home/s1/tavangar/tavangar_simple/decals_dr7_results/decals_dr7_log/results_nside_32_4227.log
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+	Real time :			705.50 sec.
+	CPU time :			383.81 sec.
+	CPU percentage :		93%
+	Max Memory :			6664016 KB
+	Average Memory :		0 KB
+
+The output (if any) is above this job summary.
