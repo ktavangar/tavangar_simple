@@ -81,10 +81,10 @@ def count_candidates(workdir,candidate_list,foreground_mask,nside):
     c8 = fits.Column(name='MC_SOURCE_ID', format='E', array=MC_SOURCE_ID)
     
     t = fits.BinTableHDU.from_columns([c0, c1, c2, c3, c4, c5, c6, c7, c8])
-    t.writeto('reduced_candidate_list.fits', overwrite=True)
+    t.writeto('reduced_candidate_list0.fits', overwrite=True)
 
     # Diagnostic output
-    data = fitsio.read('reduced_candidate_list.fits')
+    data = fitsio.read('reduced_candidate_list0.fits')
     print("{} hotspots found.").format(len(data))
     cut_0 = (data['SIG'] > 5.5)
     print("{} hotspots found with SIG > 5.5.").format(len(data[cut_0]))

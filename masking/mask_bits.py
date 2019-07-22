@@ -11,7 +11,7 @@ def init():
             (32,  dict(name="Yale bright stars",filename='yale_bright_stars.fits',mag='vmag',m1=4.45,m2=5.47,r1=0.4,r2=0.15,maxrad=0.4,minrad=0.15,cushion=30./3600.)),
             (16,  dict(name="Milky Way",filename=None,mag=None,m1=None,m2=None,r1=None,r2=None,maxrad=None,minrad=None,cushion=None)),
             (8,  dict(name="Near the LMC or SMC",filename=None,mag=None,m1=None,m2=None,r1=None,r2=None,maxrad=None,minrad=None,cushion=None)),
-            (4,   dict(name="2MASS bright star region (5<J<8)",filename='2MASS_bright_stars.fits',mag='jmag',m1=5.0,m2=7.75,r1=0.075,r2=0.03,maxrad=0.075,minrad=0.03,cushion=10./3600.)),
+            (4,   dict(name="2MASS bright star region (5<J<8)",filename='2MASS_bright_stars_test.fits',mag='jmag',m1=5.0,m2=7.75,r1=0.075,r2=0.03,maxrad=0.075,minrad=0.03,cushion=10./3600.)),
             (2,   dict(name="Large nearby galaxy (HyperLEDA catalog)",filename='leda_galaxies.fits',mag='bt',m1=13.17,m2=13.74,r1=0.1,r2=0.03,maxrad=0.1,minrad=0.03,cushion=20./3600.)),
             (1,   dict(name="2MASS fainter star region (8<J<12)",filename='2MASS_faint_stars.fits',mag='jmag',m1=8.0,m2=10.89,r1=0.03,r2=0.008,maxrad=0.03,minrad=0.008,cushion=10./3600.)),
 ])

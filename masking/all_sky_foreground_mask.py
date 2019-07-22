@@ -135,7 +135,7 @@ def main():
     parser.add_option("-n","--nside",type="int",dest="nside",help="Healpix nside",default=4096)
     parser.add_option("--milky_way_file",dest="milky_way_file",help="Milky Way Filename (input, fits format)",default='ebv_sfd98_fullres_nside_4096_ring_equatorial.fits')
     #parser.add_option("--footprint_filename",dest="footprint_filename",help="Footprint filename (input, fits format)",default='decals_footprint_gr.fits.gz')
-    parser.add_option("--foremask_filename",dest="foremask_filename",help="Foreground mask filename (output, fits format)",default='all_sky_foreground_mask.fits')
+    parser.add_option("--foremask_filename",dest="foremask_filename",help="Foreground mask filename (output, fits format)",default='all_sky_foreground_mask0.fits')
 
     # Parse command line
     (options, args) = parser.parse_args()
