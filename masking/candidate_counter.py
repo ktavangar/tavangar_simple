@@ -108,7 +108,7 @@ def main():
     parser = OptionParser(usage=usage)
     parser.add_option("-d","--workdir",dest="syspath",help="Directory to read/store maps",default='/home/s1/tavangar/tav_simple/')
     parser.add_option("--candidate_list",dest="candidate_list",help="Candidate List (input, fits format)",default='candidate_list.fits')
-    parser.add_option("--foreground_mask",dest="foreground_mask",help="Foreground Mask (input, fits format)",default='all_sky_foreground_mask.fits')
+    parser.add_option("--foreground_mask",dest="foreground_mask",help="Foreground Mask (input, fits format)",default='all_sky_foreground_mask0.fits')
     parser.add_option("-n","--nside",type="int",dest="nside",help="Healpix nside",default=4096)
 
     # Parse command line	
